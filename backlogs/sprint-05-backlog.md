@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint 5 Backlog
-permalink: /previous-sprint-backlogs/sprint-04-backlog/
+permalink: /backlogs/sprint-05-backlog/
 ---
 
 Scrum Master: Jesse Lopez
