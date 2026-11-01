@@ -19,15 +19,15 @@ Each team member gets 7 story points each.
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-002 | As Matt, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | MO |
+| RC-002 | As Matt, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | MO |
 | RC-003 | As Jesse, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | JL |
 | RC-004 | As Alanna, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | ASL |
 | RC-005 | As Vincent, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | VM |
-| RC-006 | As a user, I want to see the developers' names on the credit page of the billboard application. (Matt) | 9 | 2 | N | -- | MO |
+| RC-006 | As a user, I want to see the developers' names on the credit page of the billboard application. (Matt) | 9 | 2 | N | DONE | MO |
 | RC-007 | As a user, I want to see the developers' names on the credit page of the billboard application. (Jesse) | 9 | 2 | N | -- | JL |
 | RC-008 | As a user, I want to see the developers' names on the credit page of the billboard application. (Alanna) | 9 | 2 | N | DONE | ASL |
 | RC-009 | As a user, I want to see the developers' names on the credit page of the billboard application. (Vincent) | 9 | 2 | N | DONE | VM |
-| RC-017 | As a user, I want to see the developers' names in the about section of the billboard application. (Matt) | 9 | 1 | N | -- | MO |
+| RC-017 | As a user, I want to see the developers' names in the about section of the billboard application. (Matt) | 9 | 1 | N | DONE | MO |
 | RC-018 | As a user, I want to see the developers' names in the about section of the billboard application. (Jesse) | 9 | 1 | N | -- | JL |
 | RC-019 | As a user, I want to see the developers' names in the about section of the billboard application. (Alanna) | 9 | 1 | N | DONE | ASL |
 | RC-020 | As a user, I want to see the developers' names in the about section of the billboard application. (Vincent) | 9 | 1 | N | DONE | VM |
