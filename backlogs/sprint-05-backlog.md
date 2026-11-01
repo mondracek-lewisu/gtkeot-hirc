@@ -33,10 +33,10 @@ Each team member gets 7 story points each.
 | RC-020 | As a user, I want to see the developers' names in the about section of the billboard application. (Vincent) | 9 | 1 | N | DONE | VM |
 | RC-021 | As a user, I want to see what Scrum teams are actively working on the billboard application. | 8 | 1 | N | DONE | ASL |
 | RC-010 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Matt) | 7 | 1 | Y | DONE | MO |
-| RC-011 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Jesse) | 7 | 1 | Y | -- | JL |
+| RC-011 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Jesse) | 7 | 1 | Y | DONE | JL |
 | RC-012 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Alanna) | 7 | 1 | Y | DONE | ASL |
 | RC-013 | As a developer, I want to contribute at least 2 meaningful stories to the product backlog. (Vincent) | 7 | 1 | Y | -- | VM |
-| RC-015 | As Scrum Master, I want to review my team's performance in the previous sprint. | 6 | 1 | Y | -- | JL |
+| RC-015 | As Scrum Master, I want to review my team's performance in the previous sprint. | 6 | 1 | Y | DONE | JL |
 | RC-016 | As Product Owner, I want to review (and update if needed) our team's definition of Done. | 6 | 1 | Y | DONE | MO |
 | RC-014 | As a developer, I want to go the Fall 2026 mid-term Product Review on Tuesday, October 27 at 2 pm CT for the capstone Scrum Team. | 4 | 1 | Y | DONE | VM |
 
