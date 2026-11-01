@@ -21,7 +21,7 @@ Each team member gets 7 story points each.
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-002 | As Matt, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | MO |
 | RC-003 | As Jesse, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | JL |
-| RC-004 | As Alanna, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | -- | ASL |
+| RC-004 | As Alanna, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | ASL |
 | RC-005 | As Vincent, I want to be able to work on and test the billboard product locally and through Azure. | 10 | 2 | Y | DONE | VM |
 | RC-006 | As a user, I want to see the developers' names on the credit page of the billboard application. (Matt) | 9 | 2 | N | DONE | MO |
 | RC-007 | As a user, I want to see the developers' names on the credit page of the billboard application. (Jesse) | 9 | 2 | N | -- | JL |
