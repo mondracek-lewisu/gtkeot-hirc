@@ -46,3 +46,5 @@ permalink: /backlogs/product-backlog/
 | RC-023 | As a team member, I want to use the story application to manage the product backlog and sprint backlog, making it easier to manage and track. | 4 | 1 | N | -- | -- |
 | RC-024 | As a team member, I want to make sure that everyone in the group knows what I have changed. | 3 | 1 | Y | -- | -- |
 | RC-025 | As a user, I want to make sure that I am able to provide feedback to the production team. | 2 | 4 | N | -- | -- |
+| RC-026 | As a user, I want to see notifications for upcoming events I am interested in. | 3 | 3 | N | -- | -- |
+| RC-027 | As a team member, I want to discuss any potential issues that may occur in the future with the current buildboard application. | 2 | 1 | Y | -- | -- |
